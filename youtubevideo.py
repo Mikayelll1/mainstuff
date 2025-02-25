@@ -1,3 +1,7 @@
+# DISCLAIMER!!!!
+# Under no circumstance should this project be used to download content from youtube without the original author's permission, this is just a simple project to start with
+# Use of this project implies you are complying with the Copyright laws that YouTube has set in place
+
 from pytubefix import YouTube
 import streamlit as st
 
