@@ -18,5 +18,3 @@ st.title("YouTube Video Downloader")
 link_video = st.text_input("Enter the URL of the YouTube Video")
 if st.button("Download"):
     Download(link_video=link_video)
-
-youtubeObject.on_complete
